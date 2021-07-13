@@ -1,11 +1,7 @@
 # SonarQube Installation
 
 SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
-### Follow this Article in **[YouTube](https://www.youtube.com/watch?v=zRQrcAi9UdU)**
 
-### Prerequisites
-1. EC2 instance with Java installed
-1. MySQL Database Server or MyQL RDS instance. **[Get help here](https://www.youtube.com/watch?v=vLaW6b441x0)**
 
 ### Installation
 
